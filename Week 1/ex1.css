@@ -1,0 +1,16 @@
+body{
+  color: #34495e;
+}
+.container{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
+.container .year1{
+  background-color: #2980b9;
+  width: 50%;
+}
+.container .year2{
+  background-color: #f1c40f;
+  width: 50%;
+}

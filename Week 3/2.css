@@ -1,0 +1,12 @@
+.container{
+  display: flex;
+  flex-direction: row;
+}
+.contents{
+  margin-right: 10px;
+}
+
+.odd-contents{
+  display: flex;
+  flex-direction: row;
+}
